@@ -2,7 +2,7 @@
 
 ### <a href="https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f" target="_blank">The Net Ninja의 Graph Ql 튜토리얼</a>을 실습해보고,<br/> 고도화시킨 프로젝트입니다.
 
-<img src="./tutorial_gif.gif" alt="tutorial gif" style="width:500px;margin-top:20px"/>
+<img src="./tutorial_gif.gif" alt="tutorial gif" widtt="400"/>
 
 <br/>
 
